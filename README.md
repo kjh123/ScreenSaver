@@ -11,7 +11,7 @@ A macOS screen saver that displays current datetime .
 * From source (requires [Xcode](https://developer.apple.com/xcode/)):
  
 ```shell
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/kjh123/ScreenSaver/main/install-from-source.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/kjh123/ScreenSaver/main/install.sh)"
 ```
 
 ### Demo
